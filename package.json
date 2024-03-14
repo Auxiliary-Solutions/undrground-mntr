@@ -1,5 +1,5 @@
 {
-  "name": "undrground-mntr",
+  "name": "@undrground/mntr",
   "version": "0.1.0",
   "private": true,
   "scripts": {
